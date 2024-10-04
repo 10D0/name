@@ -1,0 +1,108 @@
+F:\studies\4 year\уп\программа\bd\bd\bin\Debug\bd.exe.config
+F:\studies\4 year\уп\программа\bd\bd\bin\Debug\bd.exe
+F:\studies\4 year\уп\программа\bd\bd\bin\Debug\bd.pdb
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.csproj.AssemblyReference.cache
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.login.resources
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.Properties.Resources.resources
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.csproj.GenerateResource.cache
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.exe
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.pdb
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.registration.resources
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.medicine.resources
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.categories.resources
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.drug.resources
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.orders.resources
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.profile.resources
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.users.resources
+E:\studies\4 year\уп\программа\bd\bd\bin\Debug\bd.exe.config
+E:\studies\4 year\уп\программа\bd\bd\bin\Debug\bd.exe
+E:\studies\4 year\уп\программа\bd\bd\bin\Debug\bd.pdb
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.csproj.AssemblyReference.cache
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.categories.resources
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.drug.resources
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.login.resources
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.medicine.resources
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.orders.resources
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.profile.resources
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.registration.resources
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.users.resources
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.Properties.Resources.resources
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.csproj.GenerateResource.cache
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.exe
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.pdb
+E:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.order.resources
+F:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.order.resources
+D:\studies\4 year\уп\программа\bd\bd\bin\Debug\bd.exe.config
+D:\studies\4 year\уп\программа\bd\bd\bin\Debug\bd.exe
+D:\studies\4 year\уп\программа\bd\bd\bin\Debug\bd.pdb
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.csproj.AssemblyReference.cache
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.categories.resources
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.drug.resources
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.login.resources
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.medicine.resources
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.order.resources
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.orders.resources
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.profile.resources
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.registration.resources
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.forms.users.resources
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.Properties.Resources.resources
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.csproj.GenerateResource.cache
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.exe
+D:\studies\4 year\уп\программа\bd\bd\obj\Debug\bd.pdb
+H:\уп\bd\bd\bin\Debug\bd.exe.config
+H:\уп\bd\bd\bin\Debug\bd.exe
+H:\уп\bd\bd\bin\Debug\bd.pdb
+H:\уп\bd\bd\obj\Debug\bd.csproj.AssemblyReference.cache
+H:\уп\bd\bd\obj\Debug\bd.forms.categories.resources
+H:\уп\bd\bd\obj\Debug\bd.forms.drug.resources
+H:\уп\bd\bd\obj\Debug\bd.forms.login.resources
+H:\уп\bd\bd\obj\Debug\bd.forms.medicine.resources
+H:\уп\bd\bd\obj\Debug\bd.forms.order.resources
+H:\уп\bd\bd\obj\Debug\bd.forms.orders.resources
+H:\уп\bd\bd\obj\Debug\bd.forms.profile.resources
+H:\уп\bd\bd\obj\Debug\bd.forms.registration.resources
+H:\уп\bd\bd\obj\Debug\bd.forms.users.resources
+H:\уп\bd\bd\obj\Debug\bd.Properties.Resources.resources
+H:\уп\bd\bd\obj\Debug\bd.csproj.GenerateResource.cache
+H:\уп\bd\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+H:\уп\bd\bd\obj\Debug\bd.exe
+H:\уп\bd\bd\obj\Debug\bd.pdb
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\bin\Debug\bd.exe.config
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\bin\Debug\bd.exe
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\bin\Debug\bd.pdb
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.csproj.AssemblyReference.cache
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.categories.resources
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.drug.resources
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.login.resources
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.medicine.resources
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.order.resources
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.orders.resources
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.profile.resources
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.registration.resources
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.users.resources
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.Properties.Resources.resources
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.csproj.GenerateResource.cache
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.exe
+F:\studies\4 year\уп\программа\Новая папка\bd\bd\obj\Debug\bd.pdb
+H:\уп\программа\Новая папка\bd\bd\bin\Debug\bd.exe.config
+H:\уп\программа\Новая папка\bd\bd\bin\Debug\bd.exe
+H:\уп\программа\Новая папка\bd\bd\bin\Debug\bd.pdb
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.csproj.AssemblyReference.cache
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.categories.resources
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.drug.resources
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.login.resources
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.medicine.resources
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.order.resources
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.orders.resources
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.profile.resources
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.registration.resources
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.forms.users.resources
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.Properties.Resources.resources
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.csproj.GenerateResource.cache
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.exe
+H:\уп\программа\Новая папка\bd\bd\obj\Debug\bd.pdb
